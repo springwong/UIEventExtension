@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIEventExtension_Example' do
+  pod 'UIEventExtension', :path => '../'
+
+  target 'UIEventExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
