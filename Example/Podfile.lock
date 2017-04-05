@@ -1,0 +1,16 @@
+PODS:
+  - UIEventExtension (0.1.0)
+
+DEPENDENCIES:
+  - UIEventExtension (from `../`)
+
+EXTERNAL SOURCES:
+  UIEventExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIEventExtension: 50b06d0f3ca30208766066397b47f3442793652c
+
+PODFILE CHECKSUM: 9b49d9559ad29f5093e5067a5cdd097a856f976c
+
+COCOAPODS: 1.2.0
