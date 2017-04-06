@@ -8,7 +8,7 @@
 
 import Foundation
 
-extension UIView{
+public extension UIView{
     internal struct UITapGestureWrapper {
         var listener: (EventListener)?
         var recognizer : UITapGestureRecognizer?

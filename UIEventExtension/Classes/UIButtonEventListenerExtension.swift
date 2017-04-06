@@ -8,7 +8,7 @@
 
 import Foundation
 
-extension UIButton{
+public extension UIButton{
     internal struct ClosureWrapper {
         var closure: (EventListener)?
         init(_ closure: (EventListener)?) {
